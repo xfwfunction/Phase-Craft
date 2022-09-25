@@ -1,0 +1,12 @@
+{
+  "name": "hasancokfena",
+  "version": "3.1.1",
+  "description": "created by hasan",
+  "main": "hasan.js",
+  "scripts": {
+    "test": "test",
+    "start": "node hasan.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

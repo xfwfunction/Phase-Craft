@@ -1,0 +1,3 @@
+config.json u düzenle sonra server.js deki belirtlilen yerleri doldurun.
+baslat.bat ilede çalıştırın.
+bizi tercih ettiğiniz için teşekkürler <3
