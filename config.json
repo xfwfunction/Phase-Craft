@@ -1,4 +1,5 @@
 {
-	"token": "Discorddan alacağın tokeni yazmalısın.",
-	"ip": "play.phasecraft.tk"
+	"token": "bot token",
+	"ip": "sunucu ip",
+	"kanal_id": "sunucunuzdaki aktiflik durumunu kanalınıza yazdırır o yüzden SES kanalı idsi yazmanız gerekmektedir."
 }
